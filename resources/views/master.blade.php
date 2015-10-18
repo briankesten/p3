@@ -15,7 +15,7 @@
     <!-- Custom styles for this template -->
     <link href="css/theme.css" rel="stylesheet">
 </head>
-<body role="document">
+<body>
 <!-- Fixed navbar -->
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">

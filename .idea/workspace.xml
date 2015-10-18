@@ -32,15 +32,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18552037">
-              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            <state vertical-scroll-proportion="-5.181818">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <marker date="1445186882368" expanded="true" signature="2066:2139" placeholder="..." />
-                <marker date="1445186882368" expanded="true" signature="2435:2521" placeholder="..." />
-                <marker date="1445186882368" expanded="true" signature="2482:2521" placeholder="..." />
+                <marker date="1445187330848" expanded="true" signature="2050:2123" placeholder="..." />
+                <marker date="1445187330848" expanded="true" signature="2419:2505" placeholder="..." />
+                <marker date="1445187330848" expanded="true" signature="2466:2505" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -77,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ipsum.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ipsum.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/ipsum.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.153847">
-              <caret line="40" column="5" selection-start-line="39" selection-start-column="10" selection-end-line="40" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.7692308">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -133,11 +133,11 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/IpsumController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/ipsum.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/usergen.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UsergenController.php" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/ipsum.blade.php" />
       </list>
     </option>
   </component>
@@ -198,6 +198,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="p3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -461,14 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/ipsum.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.153847">
-          <caret line="40" column="5" selection-start-line="39" selection-start-column="10" selection-end-line="40" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IpsumController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-24.192308">
@@ -524,13 +530,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18552037">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        <state vertical-scroll-proportion="-5.181818">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <marker date="1445186882368" expanded="true" signature="2066:2139" placeholder="..." />
-            <marker date="1445186882368" expanded="true" signature="2435:2521" placeholder="..." />
-            <marker date="1445186882368" expanded="true" signature="2482:2521" placeholder="..." />
+            <marker date="1445187330848" expanded="true" signature="2050:2123" placeholder="..." />
+            <marker date="1445187330848" expanded="true" signature="2419:2505" placeholder="..." />
+            <marker date="1445187330848" expanded="true" signature="2466:2505" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/ipsum.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7692308">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
