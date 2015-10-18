@@ -10,7 +10,7 @@
     </div>
     <div class="list-group">
         <a href="ipsum" class="list-group-item">
-            <h4 class="list-group-item-heading">Lorem Ipsum Gernerator</h4>
+            <h4 class="list-group-item-heading">Lorem Ipsum Generator</h4>
             <p class="list-group-item-text">The Dev Pal Lorem Ipsum Generator will output text that you can use for your web development projects. This site makes use of the badcow/lorem-ipsum package which provides a library for generating lorem ipsum text.  In publishing and graphic design, lorem ipsum (derived from Latin dolorem ipsum, translated as "pain itself") is a filler text commonly used to demonstrate the graphic elements of a document or visual presentation. Reference: Wikipedia - https://en.wikipedia.org/wiki/Lorem_ipsum <b>Click Here</b> </p>
         </a>
         <a href="usergen" class="list-group-item">
