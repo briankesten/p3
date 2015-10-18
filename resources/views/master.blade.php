@@ -39,7 +39,7 @@
         <!--/.nav-collapse -->
     </div>
 </nav>
-<div class="container theme-showcase" role="main">
+<div class="container theme-showcase">
 
     <div class="container">
         <p><img src='img/logo.png' alt='Dev Pal Logo' class="img-responsive center-block"></p>
