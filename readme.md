@@ -1,4 +1,4 @@
-# DEV PAL PHP site is a web developer's best friend
+# DEV PAL 
 
 ## Author
 Brian Kestenholz
@@ -18,7 +18,7 @@ Dev Pal provides tools that make developer's lives easier. Feel free to explore 
 * Tool 2: Random User Generator - The Dev Pal Random User Generator will output a list of random users which can save countless time when this type of information needs to be generated. This script makes use of the fzaninotto/faker package.
 
 ## Screencast Demo
-<http://screencast.com/t/kteJLcOSiI>
+<http://www.screencast.com/t/jDz4uKbCu>
 
 ## Details for teaching team
 * Utilizes Laravel 5.1 framework
