@@ -52,7 +52,6 @@ class UsergenController extends Controller
 
             if ($request->input('email') == "on") {
                 $email[] = $faker->email;
-                unset($email);
             }
             else
             {
