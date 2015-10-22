@@ -199,6 +199,7 @@ return [
         'Debugbar' => Barryvdh\Debugbar\Facade::class,
         'Random'    => 'Rych\Random\Random',
         'Lorem' => 'Badcow\LoremIpsum\Generator',
+        'Netcare' => 'netcare\passbuilder',
     ],
 
 ];

@@ -1,5 +1,7 @@
 <?php
 
+
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
@@ -14,6 +16,26 @@
 Route::get('/', function () {
     return view('home');
 });
+
+
+
+Route::get('/test', function () {
+    $words = array("duck", "mom", "tom", "henry", "stephen", "albert");
+    $prefix = TRUE;
+    $schar = "@";
+    $suffix = TRUE;
+    $cap = TRUE;
+
+    $pass = new Netcare();
+    $final = $pass->password_builder($words, $schar, $prefix, $suffix, $cap);
+
+    return $final;
+});
+
+Route::get('/xkcd', 'XkcdController@getPage');
+//IPSUM POST ROUTE - - Performs validation and returns data to blade template
+Route::post('/xkcd', 'XkcdController@postPage');
+
 
 //ipsum routes
 //ipsum get route - Just loads the template but still points to controller for future enhancement

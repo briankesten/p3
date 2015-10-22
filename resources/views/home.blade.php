@@ -17,5 +17,11 @@
             <h4 class="list-group-item-heading">Random User Generator </h4>
             <p class="list-group-item-text">The Dev Pal Random User Generator will output a list of random users which can save countless time when this type of information needs to be generated. This script makes use of the fzaninotto/faker package. <b>Click Here</b></p>
         </a>
+        <a href="xkcd" class="list-group-item">
+            <h4 class="list-group-item-heading">VocabPass XKCD Password Generator </h4>
+            <p class="list-group-item-text">Generate a new password while expanding your vocabulary with VOCABPASS. This tool is a modified
+                version of the XKCD password generator combines common words into a hard to decipher password. The VOCABPASS tool also uses this concept but instead pulls from a large dictionary and provides the definitions below of each
+                word. <b>Click Here</b></p>
+        </a>
     </div>
 @stop

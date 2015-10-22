@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "814404bd74a9a4590c7d9b2ff53a9dae",
+    "hash": "15c48eeae6b2280d7bac437775b3d822",
     "packages": [
         {
             "name": "badcow/lorem-ipsum",
@@ -948,6 +948,39 @@
             "time": "2015-06-25 04:19:39"
         },
         {
+            "name": "netcare/passbuilder",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/briankesten/password.git",
+                "reference": "eed423a144d073eac2787d43b96db80fc3b93e84"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/briankesten/password/zipball/eed423a144d073eac2787d43b96db80fc3b93e84",
+                "reference": "eed423a144d073eac2787d43b96db80fc3b93e84",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "netcare": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Brian Kestenholz",
+                    "email": "briankesten@yahoo.com"
+                }
+            ],
+            "description": "Simple word password builder",
+            "time": "2015-10-22 04:27:36"
+        },
+        {
             "name": "nikic/php-parser",
             "version": "v1.4.1",
             "source": {
@@ -994,16 +1027,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "1.0.7",
+            "version": "1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "df1207683dfbd1399f0fa931a368082a28fed50b"
+                "reference": "7647ac58c35ece044b939e01c85dbaa73ed26351"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/df1207683dfbd1399f0fa931a368082a28fed50b",
-                "reference": "df1207683dfbd1399f0fa931a368082a28fed50b",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/7647ac58c35ece044b939e01c85dbaa73ed26351",
+                "reference": "7647ac58c35ece044b939e01c85dbaa73ed26351",
                 "shasum": ""
             },
             "require": {
@@ -1035,7 +1068,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2015-10-16 14:10:15"
+            "time": "2015-10-20 15:22:41"
         },
         {
             "name": "psr/log",
@@ -3172,7 +3205,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "rych/random": 20
+        "rych/random": 20,
+        "netcare/passbuilder": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

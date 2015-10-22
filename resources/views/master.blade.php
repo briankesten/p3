@@ -33,7 +33,8 @@
             <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
                 <li><a href="ipsum">Lorem Ipsum Generator</a></li>
-                <li><a href="usergen">Random User Generator</a></li>
+                <li><a href="usergen">Random User Generator</a>
+                <li><a href="xkcd">XKCD Password Generator</a></li>
             </ul>
         </div>
         <!--/.nav-collapse -->
