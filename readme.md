@@ -34,6 +34,8 @@ Dev Pal provides tools that make developer's lives easier. Feel free to explore 
     1. Made the application look nice
     2. Gave the user generation more options: birthdate, location, profile text, password, and email
     3. Validated all input using Laravel validation
+    4. XKCD Password Generator converter (added 10/22/2015) because of extension  
+    5. Authored a simple custom package to Packagist (netcare/passbuilder) and utilized it in project
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
